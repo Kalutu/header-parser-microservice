@@ -29,3 +29,6 @@ Before running this application, make sure you have the following installed:
 ## Configuration
 The server listens on the port specified in the process.env.PORT environment variable. If not defined, it defaults to port 3000.
 CORS (Cross-Origin Resource Sharing) headers are enabled to allow remote testing of the API.
+
+## Contributing
+Contributions are welcome! Please feel free to open an issue or create a pull request if you find any issues or have improvements to suggest.
